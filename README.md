@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mielortiz
 - 👀 I’m interested in coding, photography and triathlon.
-- 🌱 I’m currently learning Node and React. 
+- 🌱 I’m currently learning Data analysis, Node, and React. 
 - 📫 You can reach me in my email: mielortiz@gmail.com
